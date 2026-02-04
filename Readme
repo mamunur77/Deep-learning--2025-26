@@ -1,4 +1,36 @@
-<h1>Deep Learning Lab</h1> 
+# Deep Learning Lab – Experiment 1
 
-This repository contains **DeepLearning_lab1.ipynb**, a Jupyter Notebook created as part of a Deep Learning laboratory assignment.  
-The notebook demonstrates fundamental concepts of deep learning using Python and popular libraries.
+## 📌 Project Overview
+This repository contains **DeepLearning_lab1.ipynb**, a Deep Learning laboratory notebook created using **Google Colab**.  
+The experiment focuses on **loading, exploring, and handling datasets** as a foundation for Deep Learning and Machine Learning tasks.
+
+---
+
+## 🎯 Aim
+To understand basic data handling techniques required for Deep Learning by working with real-world datasets using Python.
+
+---
+
+## 🧪 Experiment Description
+In this experiment, different datasets are loaded and explored to understand their structure and contents.  
+The notebook demonstrates:
+- Uploading CSV files in Google Colab
+- Reading datasets using Pandas
+- Accessing datasets from Google Drive
+- Downloading and using datasets from Kaggle
+- Displaying and analyzing datasets using DataFrames
+
+---
+
+## 🛠️ Tools & Technologies
+- **Language:** Python  
+- **Platform:** Google Colab / Jupyter Notebook  
+- **Libraries Used:**  
+  - Pandas  
+  - NumPy  
+  - KaggleHub  
+
+---
+
+## 📂 Repository Structure
+
